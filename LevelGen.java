@@ -10,14 +10,15 @@ class LevelGen {
     //programmers legend of blocks
     //[ or completer bracket contain food or drink
     //# land
-    //% chance of reward block
+    //% chance of reward, block
     //+ health points listed
     //O snek bod
     //M snek head
     //W snek head
     //< snek head
     //> snek head
-    //0 building material
+    //portal gif:0oOo0oOoOo0
+    //
     public boolean primary() {
         
 
